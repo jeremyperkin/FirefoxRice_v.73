@@ -1,0 +1,10 @@
+/* Change the icon of the hamburger menu */
+#PanelUI-menu-button {
+  border-image-source: none !important;
+  list-style-image: url("../menu-icon.png") !important;
+}
+/* Change the icon of the overflow menu */
+#nav-bar-overflow-button {
+  list-style-image: url("resource://activity-stream/data/content/assets/glyph-topsites-16.svg") !important;
+}
+
